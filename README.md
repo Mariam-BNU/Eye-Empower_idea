@@ -25,3 +25,9 @@ Unlike many existing solutions, EyeEmpower focuses on offline usability, Arabic 
 # Vision
 I created EyeEmpower as a step toward digital inclusion.
 My vision is to combine computer vision, AI and assistive tech into a device that’s not only powerful but also practical, localized and affordable for visually impaired users especially in regions where Arabic support is still missing.
+
+# Author
+Mariam Elromany Student at Banha National University
+Department of Computer Science and Artificial Intelligence
+Passionate about AI for accessibility & assistive technologies
+Interested in using Machine Learning & Computer Vision to build impactful real-
