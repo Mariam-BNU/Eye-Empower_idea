@@ -1,6 +1,7 @@
 # Eye-Empower_idea
 Assistive Smart Glasses for the Visually Impaired
-Hello I’m Mariam and this is *my graduation project prototype called EyeEmpower.
+
+Hello I’m Mariam and this is my graduation project prototype called EyeEmpower.
 It’s a wearable AI powered system that I built with the goal of empowering visually impaired individuals and giving them more independence, accessibility, and confidence in their daily lives.
 Unlike many existing solutions, EyeEmpower focuses on offline usability, Arabic language support, affordable price, and advanced navigation (SLAM-based) all in one device.#3 
 # Key Features
